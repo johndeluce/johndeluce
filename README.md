@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm John DeLuce</h1>
 
 ## 💫 About Me:
-🎓 I'm a fourth-year student at Penn State University, passionate about programming, artificial intelligence, and building responsive, scalable applications and websites. I'm always exploring new technologies and pushing the boundaries of what's possible through code. Whether it's crafting seamless user experiences or diving into complex problem-solving, I’m driven by curiosity and a desire to make an impact.<br><br>Let’s build something awesome.
+🎓 I'm a recent graduate from Penn State University, passionate about programming, artificial intelligence, and building responsive, scalable applications and websites. I'm always exploring new technologies and pushing the boundaries of what's possible through code. Whether it's crafting seamless user experiences or diving into complex problem-solving, I’m driven by curiosity and a desire to make an impact.<br><br>Let’s build something awesome.
 
 ## 📚 Currently Learning:
  • How to create appealing and interactive frontend apps using Next.js

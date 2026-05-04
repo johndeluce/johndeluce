@@ -1,7 +1,6 @@
-[![C](https://www.c-language.org/logo.svg)](https://www.c-language.org/){ width=200px height=200px }
-[![C++](https://isocpp.org/assets/images/cpp_logo.png)](https://isocpp.org/){ width=200px height=200px }
-[![Python](https://www.python.org/static/img/python-logo.png)](https://www.python.org/){ width=600px height=200px }
-[![HTML](https://imgs.search.brave.com/QkK-kTz_d89RUnQT4JgkpI9Y6FNLgLLPoLy339dOfK0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzYxL0hU/TUw1X2xvZ29fYW5k/X3dvcmRtYXJrLnN2/Zy8yNTBweC1IVE1M/NV9sb2dvX2FuZF93/b3JkbWFyay5zdmcu/cG5n)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5){ width=200px height=200px }
-[![CSS](https://imgs.search.brave.com/qiBLwjUALr6ypt25XcKLEJv4lH-ES1YO6Trxopim8SE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzE4LzIvY3NzMy1s/b2dvLXBuZ19zZWVr/bG9nby0xODY2Nzgu/cG5n)](https://developer.mozilla.org/en-US/docs/Web/CSS){ width=200px height=200px }
-[![JavaScript](https://imgs.search.brave.com/SguUs9vv7lTHWCifOkdcRGqqCTUSif8GvyJ6gk-5COA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85Lzk5L1Vu/b2ZmaWNpYWxfSmF2/YVNjcmlwdF9sb2dv/XzIuc3ZnLzI1MHB4/LVVub2ZmaWNpYWxf/SmF2YVNjcmlwdF9s/b2dvXzIuc3ZnLnBu/Zw)](https://developer.mozilla.org/en-US/docs/Web/JavaScript){ width=200px height=200px }
-
+<img src="https://www.c-language.org/logo.svg" alt="C" width="200" height="200" />
+<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" width="200" height="200" />
+<img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="600" height="200" />
+<img src="https://imgs.search.brave.com/QkK-kTz_d89RUnQT4JgkpI9Y6FNLgLLPoLy339dOfK0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi82LzYxL0hUTUw1X2xvZ29fYW5kX3dvcmRtYXJrLnN2Zy8yNTBweC1IVE1MNV9sb2dvX2FuZF93b3JkbWFyay5zdmcucG5n" alt="HTML" width="200" height="200" />
+<img src="https://imgs.search.brave.com/qiBLwjUALr6ypt25XcKLEJv4lH-ES1YO6Trxopim8SE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMuc2Vla2xvZ28uY29tL2xvZ28tcG5nLzE4LzIvY3NzMy1sb2dvLXBuZ19zZWVrbG9nby0xODY2NzgucG5n" alt="CSS" width="200" height="200" />
+<img src="https://imgs.search.brave.com/SguUs9vv7lTHWCifOkdcRGqqCTUSif8GvyJ6gk-5COA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi85Lzk5L1Vub2ZmaWNpYWxfSmF2YVNjcmlwdF9sb2dvXzIuc3ZnLzI1MHB4LVVub2ZmaWNpYWxfSmF2YVNjcmlwdF9sb2dvXzIuc3ZnLnBuZw" alt="JavaScript" width="200" height="200" />

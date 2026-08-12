@@ -1,1 +1,8 @@
-**Fixing**
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
+![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)
+![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)
